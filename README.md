@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://github.com/Jsenen](https://raw.githubusercontent.com/JSenen/Jsenen/Baner.PNG)
-<br>
+![https://github.com/Jsenen](https://raw.githubusercontent.com/jsenen/jsenen/master/banner.png)
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
