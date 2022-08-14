@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username={JSenen}&theme=blue-green)
-![stats](https://github-readme-stats.vercel.app/api?username={Jsenen}&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsenen)](https://github.com/anuraghazra/github-readme-stats)
 
