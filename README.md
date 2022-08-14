@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](https://raw.githubusercontent.com/Jsenen/Jsenen/master/Baner.png)
+![banner](https://raw.githubusercontent.com/Jsenen/Jsenen/main/Baner.png)
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
