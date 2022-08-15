@@ -1,4 +1,4 @@
-### Hi there 👋
+# ¡Hola! 👋, bienvenido a mis repositorios.
 
 <!--
 **JSenen/Jsenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 ![banner](https://raw.githubusercontent.com/JSenen/Jsenen/main/Baner.PNG)
 
-Apasionado de la tecnología. Aprendiendo programación y realizando pequeños proyectos.
+Apasionado de la tecnología y la informática. Aprendiendo continuamente programación y realizando pequeños proyectos.
+A los 9 años comenzó mi pasión con pequeños programas en Basic en un Commodore 16. Desde entonces no he podido parar
+de aprender.
 
 Lenguajes conocidos:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+1. ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+2. ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+3. ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+4. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 Bases de datos:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,6 +46,9 @@ Otras suites:
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsenen)](https://github.com/anuraghazra/github-readme-stats)
+
+Redes:
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flonestar1975
 
 PORTFOLIO. Algunas apps y webs creadas.
 
