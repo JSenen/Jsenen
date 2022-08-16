@@ -54,7 +54,7 @@ de aprender.
 ### OSINT y Ciberseguridad:
 Me apasiona el OSINT (Investigación en fuentes abiertas) e intento aprender todo lo posible sobre Ciberseguridad.
 Aquí os dejo un enlace a mi Podcast sobre el tema
-<a href="https://www.podcasts.com/embed/podcast/osintfinal" target="_blank"><b>Podcast OSINT Final </b></a>
+<a href="https://www.podcasts.com/embed/podcast/osintfinal](https://podcasts.apple.com/us/podcast/osintfinal/id1557940944" target="_blank"><b>Podcast OSINT Final </b></a>
 
 PORTFOLIO. Algunas apps y webs creadas.
 
