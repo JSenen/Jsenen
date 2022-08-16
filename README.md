@@ -50,6 +50,7 @@ de aprender.
 
 ### Redes: :newspaper_roll:  
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flonestar1975)
+![Podcast](https://img.shields.io/podcast/url?style=social&url=https%3A%2F%2Fpodcast.com%2Flonestar1975)
 
 PORTFOLIO. Algunas apps y webs creadas.
 
