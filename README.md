@@ -50,8 +50,11 @@ de aprender.
 
 ### Redes: :newspaper_roll:  
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flonestar1975)
-![Podcast](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)
-<iframe src="https://www.podcasts.com/embed/podcast/osintfinal" title="OSINTfinal" width="100%" height="200px" frameBorder="0"></iframe>
+
+### OSINT y Ciberseguridad:
+Me apasiona el OSINT (Investigación en fuentes abiertas) e intento aprender todo lo posible sobre Ciberseguridad.
+Aquí os dejo un enlace a mi Podcast sobre el tema
+<a href="https://www.podcasts.com/embed/podcast/osintfinal" target="_blank"><b>Podcast OSINT Final </b></a>
 
 PORTFOLIO. Algunas apps y webs creadas.
 
