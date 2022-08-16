@@ -27,28 +27,28 @@ de aprender.
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-### Bases de datos con las que trabajo:
+### Bases de datos con las que trabajo: :open_file_folder:
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-### Editores que me gusta utilizar:
+### Editores que me gusta utilizar: :desktop_computer:
  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
  ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  ![Atom](https://img.shields.io/badge/Atom-78cd00?style=for-the-badge&logo=atom&logoColor=white)
 
-### Control de versiones:
+### Control de versiones: :detective:
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Test:
+### Test: :pray:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-### Otras suites usadas para otros menesteres:
+### Otras suites usadas para otros menesteres: :roll_eyes:
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsenen)](https://github.com/anuraghazra/github-readme-stats)
 
-Redes:
+### Redes: :newspaper_roll:
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flonestar1975)
 
 PORTFOLIO. Algunas apps y webs creadas.
