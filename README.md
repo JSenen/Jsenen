@@ -48,7 +48,7 @@ de aprender.
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsenen)](https://github.com/anuraghazra/github-readme-stats)
 
-### Redes: :newspaper_roll:
+### Redes: :newspaper_roll:  
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flonestar1975)
 
 PORTFOLIO. Algunas apps y webs creadas.
