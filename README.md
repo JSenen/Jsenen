@@ -49,12 +49,14 @@ de aprender.Me encanta "picar código" y las nuevas tecnologías.
 ### Otras suites y software usado para disciplinas, proyectos varios y otros menesteres: :roll_eyes:
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![OBSStudio](https://img.shields.io/badge/obsstudio-191A1B?style=for-the-badge&logo=obsstudio&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ### Redes: :newspaper_roll:  
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flonestar1975)
 
 
-PORTFOLIO. Algunas apps y webs que he creado o en las que he participado.
+### PORTFOLIO. 
+Algunas apps y webs que he creado o en las que he participado.
 
 1. <a href="https://jsenen.github.io/vets/" target="_blank">VETS</a>
 
