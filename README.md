@@ -35,7 +35,7 @@ de aprender.Me encanta "picar código" y las nuevas tecnologías.
 
 ### Editores que me gusta utilizar: :desktop_computer:
  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
- ![AndroidStudio](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+ ![AndroidStudio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
  ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  ![Atom](https://img.shields.io/badge/Atom-78cd00?style=for-the-badge&logo=atom&logoColor=white)
