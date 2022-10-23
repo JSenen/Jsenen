@@ -48,8 +48,6 @@ de aprender.Me encanta "picar código" y las nuevas tecnologías.
 
 ### Otras suites y software usado para disciplinas, proyectos varios y otros menesteres: :roll_eyes:
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsenen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsenen)](https://github.com/anuraghazra/github-readme-stats)
 ![OBSStudio](https://img.shields.io/badge/obsstudio-191A1B?style=for-the-badge&logo=obsstudio&logoColor=white)
 
 ### Redes: :newspaper_roll:  
@@ -59,3 +57,8 @@ de aprender.Me encanta "picar código" y las nuevas tecnologías.
 PORTFOLIO. Algunas apps y webs que he creado o en las que he participado.
 
 1. <a href="https://jsenen.github.io/vets/" target="_blank">VETS</a>
+
+### Estadísticas y otros datos
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsenen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsenen)](https://github.com/anuraghazra/github-readme-stats)
