@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](https://raw.githubusercontent.com/JSenen/Jsenen/main/Baner.PNG)
-
 Apasionado de la tecnología y la informática. Aprendiendo continuamente programación y realizando pequeños proyectos.
 A los 9 años comenzó mi pasión con pequeños programas en Basic en un Commodore 16. Desde entonces no he podido parar
 de aprender.Me encanta "picar código" y las nuevas tecnologías.
+
+Actulamente me encuentro estudiando el Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma. 
+
+### Repositorios
+En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el curso del Ciclo Superior DAM
 
 ### Aprendiendo estos lenguajes, practicándolos y mejorando: :man_technologist:
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,10 +53,6 @@ de aprender.Me encanta "picar código" y las nuevas tecnologías.
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![OBSStudio](https://img.shields.io/badge/obsstudio-191A1B?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-
-### Redes: :newspaper_roll:  
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flonestar1975)
-
 
 ### PORTFOLIO. 
 Algunas apps y webs que he creado o en las que he participado.
