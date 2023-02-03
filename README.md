@@ -31,6 +31,7 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
  ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ ![Swift](https://img.shields.io/badge/swift-FFC300?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Bases de datos con las que trabajo: :open_file_folder:
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,9 +40,8 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
 ### Editores que me gusta utilizar: :desktop_computer:
  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  ![AndroidStudio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
- ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
  ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![Atom](https://img.shields.io/badge/Atom-78cd00?style=for-the-badge&logo=atom&logoColor=white)
+ ![Xcode](https://img.shields.io/badge/Xcode-238DF1?style=for-the-badge&logo=xcode&logoColor=white)
 
 ### Control de versiones: :detective:
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
