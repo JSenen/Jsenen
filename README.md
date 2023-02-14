@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://github.com/JSenen](https://raw.githubusercontent.com/Jsenen/Jsenen/master/Banner.png)
+![https://github.com/JSenen](https://raw.githubusercontent.com/Jsenen/Jsenen/master/Baner.png)
 
 Apasionado de la tecnología y la informática. Aprendiendo continuamente programación y realizando pequeños proyectos.
 A los 9 años comenzó mi pasión con pequeños programas en Basic en un Commodore 16. Desde entonces no he podido parar
