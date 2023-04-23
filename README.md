@@ -38,6 +38,7 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
 ### Bases de datos con las que trabajo: :open_file_folder:
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+ ![php](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ### Editores que me gusta utilizar: :desktop_computer:
  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
