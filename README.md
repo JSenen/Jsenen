@@ -24,7 +24,7 @@ de aprender.Me encanta "picar código" y las nuevas tecnologías.
 Actulamente me encuentro estudiando el Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma. 
 
 ### Repositorios
-En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el curso del Ciclo Superior DAM
+En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el curso del Ciclo Superior DAM; así como proyectos libres
 
 ### Aprendiendo estos lenguajes, practicándolos y mejorando: :man_technologist:
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
