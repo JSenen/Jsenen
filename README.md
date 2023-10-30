@@ -57,6 +57,7 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![OBSStudio](https://img.shields.io/badge/obsstudio-191A1B?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-00A9FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ### PORTFOLIO. 
 Algunas apps y webs que he creado o en las que he participado.
