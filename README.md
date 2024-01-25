@@ -21,7 +21,7 @@ Apasionado de la tecnología y la informática. Aprendiendo continuamente progra
 A los 9 años comenzó mi pasión con pequeños programas en Basic en un Commodore 16. Desde entonces no he podido parar
 de aprender.Me encanta "picar código" y las nuevas tecnologías.
 
-Actulamente me encuentro estudiando el Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma. 
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. 
 
 ### Repositorios
 En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el curso del Ciclo Superior DAM; así como proyectos libres
@@ -34,30 +34,12 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
  ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  ![Swift](https://img.shields.io/badge/swift-FFC300?style=for-the-badge&logo=swift&logoColor=white)
+ ![C](https://img.shields.io/badge/C-8ad3ed?style=for-the-badge&logo=C&logoColor=white)
 
 ### Bases de datos con las que trabajo: :open_file_folder:
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
  ![php](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-
-### Editores que me gusta utilizar: :desktop_computer:
- ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
- ![AndroidStudio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
- ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![Xcode](https://img.shields.io/badge/Xcode-238DF1?style=for-the-badge&logo=xcode&logoColor=white)
-
-### Control de versiones: :detective:
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![sourcetree](https://img.shields.io/badge/SOURCETREE-3078e4?style=for-the-badge&logo=sourcetree&logoColor=white)
-
-### Test: :pray:
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-
-### Otras suites y software usado para disciplinas, proyectos varios y otros menesteres: :roll_eyes:
-![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![OBSStudio](https://img.shields.io/badge/obsstudio-191A1B?style=for-the-badge&logo=obsstudio&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-00A9FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ### PORTFOLIO. 
 Algunas apps y webs que he creado o en las que he participado.
