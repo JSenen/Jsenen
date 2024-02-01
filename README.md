@@ -26,7 +26,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
 ### Repositorios
 En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el curso del Ciclo Superior DAM; así como proyectos libres
 
-### Aprendiendo estos lenguajes, practicándolos y mejorando: :man_technologist:
+### Lenguajes y plataformas, practicándolos y mejorando: :man_technologist:
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
  ![Swift](https://img.shields.io/badge/swift-FFC300?style=for-the-badge&logo=swift&logoColor=white)
  ![C](https://img.shields.io/badge/C-8ad3ed?style=for-the-badge&logo=C&logoColor=white)
 
-### Bases de datos con las que trabajo: :open_file_folder:
+### Bases de datos : :open_file_folder:
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
  ![php](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=phpmyadmin&logoColor=white)
