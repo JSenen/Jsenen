@@ -35,7 +35,8 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
  ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  ![Swift](https://img.shields.io/badge/swift-FFC300?style=for-the-badge&logo=swift&logoColor=white)
  ![C](https://img.shields.io/badge/C-8ad3ed?style=for-the-badge&logo=C&logoColor=white)
-
+ ![AWS](https://img.shields.io/badge/AWS-8ad3ed?style=for-the-badge&logo=AWS&logoColor=yellow)
+ 
 ### Bases de datos : :open_file_folder:
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
