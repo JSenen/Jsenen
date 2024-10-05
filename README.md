@@ -42,12 +42,7 @@ En este GitHUb, podrás encontrar los trabajos que he ido realizando durante el 
  ![php](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ### PORTFOLIO. 
-Algunas apps y webs que he creado o en las que he participado.
-
-1. <a href="http://www.clinicavets.com" target="_blank">VETS</a>
-![WebImagen](https://raw.githubusercontent.com/JSenen/Jsenen/main/ScreenShootWeb.png)
 
 ### Estadísticas y otros datos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSenen&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSenen)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
